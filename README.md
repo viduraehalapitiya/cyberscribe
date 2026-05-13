@@ -8,8 +8,7 @@
 
 ### Step 1 — Download the plugin files
 
-Download the following two files from the [latest release](https://github.com/vidura-supun/cyberscribe/releases/latest):
-
+Download the following two files
 - `main.js`
 - `manifest.json`
 
